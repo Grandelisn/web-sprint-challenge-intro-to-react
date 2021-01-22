@@ -2,6 +2,7 @@ body {
   margin: 0;
   padding: 0;
   font-family: sans-serif;
-  background-image: url('./images/sw-bg.jpg');
-  background-size: cover;
+  background-image: url("https://cristianodalbem.com/static/31f82f5c3ab7c531248db874dc72b34a/38ece/space1.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
 }
